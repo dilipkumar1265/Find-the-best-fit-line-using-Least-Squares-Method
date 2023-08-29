@@ -43,7 +43,7 @@ plt.show()
 ```
 
 ## Output:
-![best fit line](C:\Users\SEC\Desktop\sa1.png)
+![best fit line](sa1.png)
 
 
 ## Result:

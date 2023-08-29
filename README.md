@@ -43,7 +43,7 @@ plt.show()
 ```
 
 ## Output:
-![best fit line](mlss.png)
+![best fit line](sa1.png)
 
 
 ## Result:
